@@ -29,7 +29,7 @@ class _SignInPageState extends State<SignInPage> {
           ),
           const SizedBox(height: 10),
           const Text(
-            "Create a New Account",
+            "Create a new Account",
             style: TextStyle(
               fontSize: 25,
               fontWeight: FontWeight.bold,
